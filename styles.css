@@ -462,5 +462,12 @@ blockquote i{
     right:0;
     background:rgba(0, 0, 0, 0.8);
   }
-
+@media  screen and (max-width:768px){
+    div.carousel-inner h1{
+        font-size: 3rem !important;
+    }
+    div.profile img{
+        width:25%;
+    }
+  }
   
